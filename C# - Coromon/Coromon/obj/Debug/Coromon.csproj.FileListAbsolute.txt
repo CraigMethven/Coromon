@@ -1,0 +1,9 @@
+C:\Users\Craig\source\repos\Coromon\Coromon\bin\Debug\Coromon.exe.config
+C:\Users\Craig\source\repos\Coromon\Coromon\bin\Debug\Coromon.exe
+C:\Users\Craig\source\repos\Coromon\Coromon\bin\Debug\Coromon.pdb
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.csprojAssemblyReference.cache
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.Properties.Resources.resources
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.csproj.GenerateResource.cache
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.exe
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.pdb
+C:\Users\Craig\source\repos\Coromon\Coromon\obj\Debug\Coromon.CoromonUI.resources
